@@ -94,8 +94,8 @@ Este caderno está organizado para guiar o leitor desde os fundamentos até tema
 
 Para a composição deste caderno temático e fundamentação dos estudos, foram selecionados e analisados materiais didáticos em texto e PDF focados na formação prática e corporativa.
 
-| # | Documento | Descrição | Acesso |
-|---|-----------|-----------|--------|
+| # | Documento | Descrição |
+|---|-----------|-----------|
 | 1 | **Módulo 1** - Introdução à Análise Financeira | Fundamentos de contabilidade, leitura de balanços, interpretação de demonstrativos e análise inicial de fluxo de caixa.
 | 2 | **Módulo 2** - Ferramentas e Técnicas Avançadas | Modelagem financeira, análise de investimentos, dashboards, compliance e regulamentações. 
 | 3 | **Módulo 4** - Controle e Redução de Custos | Estratégias para cortar gastos sem sacrificar qualidade, custo-benefício e otimização de processos. 
