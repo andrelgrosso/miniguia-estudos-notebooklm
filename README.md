@@ -107,6 +107,32 @@ Contribuições são bem-vindas! Se você deseja adicionar conteúdo, sugerir me
 
 ---
 
+## 📚 Fontes Selecionadas e Materiais de Estudo
+
+Para a composição deste caderno temático e fundamentação dos estudos, foram selecionados e analisados materiais didáticos em texto e PDF focados na formação prática e corporativa. Abaixo estão listadas as principais fontes utilizadas:
+
+1. **Apostila: Módulo 1 – Introdução à Análise Financeira (PDF)**
+   * **Descrição:** Material base focado nos fundamentos da contabilidade, leitura de balanços, interpretação de demonstrativos e análise inicial de fluxo de caixa.
+   * **Acesso ao documento:** [Disponível aqui](./documentos/Apostila_Mod_1.pdf)
+
+2. **Apostila: Módulo 2 – Ferramentas e Técnicas Avançadas de Análise Financeira (PDF)**
+   * **Descrição:** Guia focado no desenvolvimento prático de modelagem financeira, análise de investimentos, criação de dashboards, além de conceitos de compliance e regulamentações.
+   * **Acesso ao documento:** [Disponível aqui](./documentos/Apostila_Mod_2.pdf)
+
+3. **Apostila: Módulo 4 – Controle e Redução de Custos (PDF)**
+   * **Descrição:** Focado na eficiência empresarial, abordando estratégias para cortar gastos sem sacrificar a qualidade, análises de custo-benefício e otimização de processos internos.
+   * **Acesso ao documento:** [Disponível aqui](./documentos/Apostila_Mod_4.pdf)
+
+4. **Apostila: Módulo 5 – Tecnologia e Inovação no Setor Financeiro (PDF)**
+   * **Descrição:** Aborda a transformação digital no ecossistema de finanças, cobrando temas disruptivos como o impacto de Fintechs, Blockchain, Big Data e a aplicação prática de Inteligência Artificial e Automação.
+   * **Acesso ao documento:** [Disponível aqui](./documentos/Apostila_Mod_5.pdf)
+
+5. **Documento Editorial: Conheça o Curso ProdCast360 - Analista Financeiro (Texto/Docx)**
+   * **Descrição:** Transcrição/roteiro focado no perfil profissional e nas competências mais exigidas pelo mercado de trabalho, detalhando a importância de atuar com visão estratégica e ir além do preenchimento de planilhas.
+   * **Acesso ao documento:** [Disponível aqui](./documentos/Conheca_o_Curso_ProdCast360.pdf)
+
+---
+
 ## 📄 Licença
 
 Este material foi desenvolvido para fins educacionais e de desenvolvimento profissional.
