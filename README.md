@@ -94,13 +94,17 @@ Este caderno está organizado para guiar o leitor desde os fundamentos até tema
 
 Para a composição deste caderno temático e fundamentação dos estudos, foram selecionados e analisados materiais didáticos em texto e PDF focados na formação prática e corporativa.
 
-| # | Documento | Descrição |
-|---|---|---|
-| 1 | Módulo 1 - Introdução à Análise Financeira | Fundamentos de contabilidade, leitura de balanços, interpretação de demonstrativos e análise inicial de fluxo de caixa. |
-| 2 | Módulo 2 - Ferramentas e Técnicas Avançadas | Modelagem financeira, análise de investimentos, dashboards, compliance e regulamentações. |
-| 3 | Módulo 3 - Técnicas Avançadas de Negociação e Gestão de Relacionamentos | Estratégias e psicologia de negociação, gestão de conflitos, parcerias estratégicas com fornecedores e clientes (CRM/LTV) e ética empresarial. |
-| 4 | Módulo 4 - Controle e Redução de Custos | Estratégias para cortar gastos sem sacrificar qualidade, custo-benefício e otimização de processos. |
-| 5 | Módulo 5 - Tecnologia e Inovação | Transformação digital, Fintechs, Blockchain, Big Data, IA e Automação no setor financeiro. |
+### 📂 Localização dos Arquivos
+Todos os materiais listados abaixo estão armazenados no diretório: 
+`Analista Financeiro - Treinamento Corporativo + 3 Cursos/`
+
+| # | Documento | Descrição | Caminho Relativo do Arquivo |
+|---|---|---|---|
+| 1 | Módulo 1 - Introdução à Análise Financeira | Fundamentos de contabilidade, leitura de balanços, interpretação de demonstrativos e análise inicial de fluxo de caixa. | [Apostila+Mod.+1.pdf](Analista%20Financeiro%20-%20Treinamento%20Corporativo%20%2B%203%20Cursos/Apostila+Mod.+1.pdf) |
+| 2 | Módulo 2 - Ferramentas e Técnicas Avançadas | Modelagem financeira, análise de investimentos, dashboards, compliance e regulamentações. | [Apostila+Mod.+2.pdf](Analista%20Financeiro%20-%20Treinamento%20Corporativo%20%2B%203%20Cursos/Apostila+Mod.+2.pdf) |
+| 3 | Módulo 3 - Técnicas Avançadas de Negociação e Gestão de Relacionamentos | Estratégias e psicologia de negociação, gestão de conflitos, parcerias estratégicas com fornecedores e clientes (CRM/LTV) e ética empresarial. | [Apostila+Mod.+3.pdf](Analista%20Financeiro%20-%20Treinamento%20Corporativo%20%2B%203%20Cursos/Apostila+Mod.+3.pdf) |
+| 4 | Módulo 4 - Controle e Redução de Custos | Estratégias para cortar gastos sem sacrificar qualidade, custo-benefício e otimização de processos. | [Apostila+Mod.+4.pdf](Analista%20Financeiro%20-%20Treinamento%20Corporativo%20%2B%203%20Cursos/Apostila+Mod.+4.pdf) |
+| 5 | Módulo 5 - Tecnologia e Inovação | Transformação digital, Fintechs, Blockchain, Big Data, IA e Automação no setor financeiro. | [Apostila+Mod.+5.pdf](Analista%20Financeiro%20-%20Treinamento%20Corporativo%20%2B%203%20Cursos/Apostila+Mod.+5.pdf) |
 
 ---
 
